@@ -1,0 +1,786 @@
+[
+    {
+        "card": "GeForce 2080 Ti",
+        "manufacturer": "NVIDIA",
+        "tdp": 300,
+        "power": 375,
+        "architecture": "Turing",
+        "performance": "High"
+    },
+    {
+        "card": "GeForce 2080 Super",
+        "manufacturer": "NVIDIA",
+        "tdp": 255,
+        "power": 350,
+        "architecture": "Turing",
+        "performance": "High"
+    },
+    {
+        "card": "GeForce 2070",
+        "manufacturer": "NVIDIA",
+        "tdp": 175,
+        "power": 225,
+        "architecture": "Turing",
+        "performance": "High"
+    },
+    {
+        "card": "GeForce 2060",
+        "manufacturer": "NVIDIA",
+        "tdp": 160,
+        "power": 185,
+        "architecture": "Turing",
+        "performance": "Medium"
+    },
+    {
+        "card": "GeForce 1660 Ti",
+        "manufacturer": "NVIDIA",
+        "tdp": 115,
+        "power": 125,
+        "architecture": "Turing",
+        "performance": "Medium"
+    },
+    {
+        "card": "GeForce 1660 Super",
+        "manufacturer": "NVIDIA",
+        "tdp": 130,
+        "power": 170,
+        "architecture": "Turing",
+        "performance": "Medium"
+    },
+    {
+        "card": "GeForce 1080 Ti",
+        "manufacturer": "NVIDIA",
+        "tdp": 250,
+        "power": 250,
+        "architecture": "Pascal",
+        "performance": "High"
+    },
+    {
+        "card": "GeForce 1080",
+        "manufacturer": "NVIDIA",
+        "tdp": 180,
+        "power": 180,
+        "architecture": "Pascal",
+        "performance": "High"
+    },
+    {
+        "card": "GeForce 1070 Ti",
+        "manufacturer": "NVIDIA",
+        "tdp": 150,
+        "power": 150,
+        "architecture": "Pascal",
+        "performance": "Medium"
+    },
+    {
+        "card": "GeForce 1070",
+        "manufacturer": "NVIDIA",
+        "tdp": 150,
+        "power": 150,
+        "architecture": "Pascal",
+        "performance": "Medium"
+    },
+    {
+        "card": "GeForce 980 Ti",
+        "manufacturer": "NVIDIA",
+        "tdp": 225,
+        "power": 250,
+        "architecture": "Maxwell",
+        "performance": "High"
+    },
+    {
+        "card": "GeForce 980",
+        "manufacturer": "NVIDIA",
+        "tdp": 165,
+        "power": 165,
+        "architecture": "Maxwell",
+        "performance": "High"
+    },
+    {
+        "card": "GeForce 970",
+        "manufacturer": "NVIDIA",
+        "tdp": 150,
+        "power": 150,
+        "architecture": "Maxwell",
+        "performance": "Medium"
+    },
+    {
+        "card": "GeForce 960",
+        "manufacturer": "NVIDIA",
+        "tdp": 120,
+        "power": 120,
+        "architecture": "Maxwell",
+        "performance": "Medium"
+    },
+    {
+        "card": "GeForce 780 Ti",
+        "manufacturer": "NVIDIA",
+        "tdp": 250,
+        "power": 250,
+        "architecture": "Kepler",
+        "performance": "High"
+    },
+    {
+        "card": "GeForce 780",
+        "manufacturer": "NVIDIA",
+        "tdp": 200,
+        "power": 200,
+        "architecture": "Kepler",
+        "performance": "High"
+    },
+    {
+        "card": "GeForce 770",
+        "manufacturer": "NVIDIA",
+        "tdp": 200,
+        "power": 200,
+        "architecture": "Kepler",
+        "performance": "Medium"
+    },
+    {
+        "card": "GeForce 760",
+        "manufacturer": "NVIDIA",
+        "tdp": 175,
+        "power": 175,
+        "architecture": "Kepler",
+        "performance": "Medium"
+    },
+    {
+        "card": "GeForce 680",
+        "manufacturer": "NVIDIA",
+        "tdp": 195,
+        "power": 200,
+        "architecture": "Kepler",
+        "performance": "High"
+    },
+    {
+        "card": "GeForce 670",
+        "manufacturer": "NVIDIA",
+        "tdp": 200,
+        "power": 200,
+        "architecture": "Kepler",
+        "performance": "High"
+    },
+    {
+        "card": "GeForce 660 Ti",
+        "manufacturer": "NVIDIA",
+        "tdp": 150,
+        "power": 150,
+        "architecture": "Kepler",
+        "performance": "Medium"
+    },
+    {
+        "card": "GeForce 660",
+        "manufacturer": "NVIDIA",
+        "tdp": 150,
+        "power": 150,
+        "architecture": "Kepler",
+        "performance": "Medium"
+    },
+    {
+        "card": "GeForce 580",
+        "manufacturer": "NVIDIA",
+        "tdp": 225,
+        "power": 250,
+        "architecture": "Fermi",
+        "performance": "High"
+    },
+    {
+        "card": "GeForce 570",
+        "manufacturer": "NVIDIA",
+        "tdp": 225,
+        "power": 250,
+        "architecture": "Fermi",
+        "performance": "High"
+    },
+    {
+        "card": "GeForce 560 Ti",
+        "manufacturer": "NVIDIA",
+        "tdp": 175,
+        "power": 175,
+        "architecture": "Fermi",
+        "performance": "Medium"
+    },
+    {
+        "card": "GeForce 560",
+        "manufacturer": "NVIDIA",
+        "tdp": 175,
+        "power": 175,
+        "architecture": "Fermi",
+        "performance": "Medium"
+    },
+    {
+        "card": "GeForce 480",
+        "manufacturer": "NVIDIA",
+        "tdp": 250,
+        "power": 250,
+        "architecture": "Fermi",
+        "performance": "High"
+    },
+    {
+        "card": "GeForce 470",
+        "manufacturer": "NVIDIA",
+        "tdp": 244,
+        "power": 244,
+        "architecture": "Fermi",
+        "performance": "High"
+    },
+    {
+        "card": "GeForce 460",
+        "manufacturer": "NVIDIA",
+        "tdp": 195,
+        "power": 195,
+        "architecture": "Fermi",
+        "performance": "Medium"
+    },
+    {
+        "card": "GeForce 380",
+        "manufacturer": "NVIDIA",
+        "tdp": 200,
+        "power": 200,
+        "architecture": "Fermi",
+        "performance": "Medium"
+    },
+    {
+        "card": "GeForce 370",
+        "manufacturer": "NVIDIA",
+        "tdp": 150,
+        "power": 150,
+        "architecture": "Fermi",
+        "performance": "Medium"
+    },
+    {
+        "card": "GeForce 360",
+        "manufacturer": "NVIDIA",
+        "tdp": 120,
+        "power": 120,
+        "architecture": "Fermi",
+        "performance": "Low"
+    },
+    {
+        "card": "GeForce 280",
+        "manufacturer": "NVIDIA",
+        "tdp": 235,
+        "power": 235,
+        "architecture": "Fermi",
+        "performance": "High"
+    },
+    {
+        "card": "GeForce 270",
+        "manufacturer": "NVIDIA",
+        "tdp": 225,
+        "power": 225,
+        "architecture": "Fermi",
+        "performance": "High"
+    },
+    {
+        "card": "GeForce 260",
+        "manufacturer": "NVIDIA",
+        "tdp": 195,
+        "power": 195,
+        "architecture": "Fermi",
+        "performance": "Medium"
+    },
+    {
+        "card": "GeForce 250",
+        "manufacturer": "NVIDIA",
+        "tdp": 140,
+        "power": 140,
+        "architecture": "Fermi",
+        "performance": "Medium"
+    },
+    {
+        "card": "Quadro RTX 8000",
+        "manufacturer": "NVIDIA",
+        "tdp": 300,
+        "power": 375,
+        "architecture": "Turing",
+        "performance": "High"
+    },
+    {
+        "card": "Quadro RTX 6000",
+        "manufacturer": "NVIDIA",
+        "tdp": 250,
+        "power": 250,
+        "architecture": "Turing",
+        "performance": "High"
+    },
+    {
+        "card": "Quadro RTX 5000",
+        "manufacturer": "NVIDIA",
+        "tdp": 225,
+        "power": 225,
+        "architecture": "Turing",
+        "performance": "High"
+    },
+    {
+        "card": "Quadro P6000",
+        "manufacturer": "NVIDIA",
+        "tdp": 250,
+        "power": 250,
+        "architecture": "Pascal",
+        "performance": "High"
+    },
+    {
+        "card": "Quadro P5000",
+        "manufacturer": "NVIDIA",
+        "tdp": 225,
+        "power": 225,
+        "architecture": "Pascal",
+        "performance": "High"
+    },
+    {
+        "card": "Quadro P4000",
+        "manufacturer": "NVIDIA",
+        "tdp": 150,
+        "power": 150,
+        "architecture": "Pascal",
+        "performance": "Medium"
+    },
+    {
+        "card": "Quadro K6000",
+        "manufacturer": "NVIDIA",
+        "tdp": 225,
+        "power": 225,
+        "architecture": "Kepler",
+        "performance": "High"
+    },
+    {
+        "card": "Quadro K5200",
+        "manufacturer": "NVIDIA",
+        "tdp": 175,
+        "power": 175,
+        "architecture": "Kepler",
+        "performance": "High"
+    },
+    {
+        "card": "Quadro K5000",
+        "manufacturer": "NVIDIA",
+        "tdp": 175,
+        "power": 175,
+        "architecture": "Kepler",
+        "performance": "High"
+    },
+    {
+        "card": "Quadro K4200",
+        "manufacturer": "NVIDIA",
+        "tdp": 120,
+        "power": 120,
+        "architecture": "Kepler",
+        "performance": "Medium"
+    },
+    {
+        "card": "Quadro K4000",
+        "manufacturer": "NVIDIA",
+        "tdp": 120,
+        "power": 120,
+        "architecture": "Kepler",
+        "performance": "Medium"
+    },
+    {
+        "card": "Tesla V100",
+        "manufacturer": "NVIDIA",
+        "tdp": 300,
+        "power": 350,
+        "architecture": "Volta",
+        "performance": "High"
+    },
+    {
+        "card": "Tesla P100",
+        "manufacturer": "NVIDIA",
+        "tdp": 250,
+        "power": 250,
+        "architecture": "Pascal",
+        "performance": "High"
+    },
+    {
+        "card": "Tesla K80",
+        "manufacturer": "NVIDIA",
+        "tdp": 149,
+        "power": 149,
+        "architecture": "Kepler",
+        "performance": "High"
+    },
+    {
+        "card": "Tesla K40",
+        "manufacturer": "NVIDIA",
+        "tdp": 225,
+        "power": 225,
+        "architecture": "Kepler",
+        "performance": "High"
+    },
+    {
+        "card": "Tesla K20",
+        "manufacturer": "NVIDIA",
+        "tdp": 225,
+        "power": 225,
+        "architecture": "Kepler",
+        "performance": "High"
+    },
+    {
+        "card": "Titan RTX",
+        "manufacturer": "NVIDIA",
+        "tdp": 280,
+        "power": 280,
+        "architecture": "Turing",
+        "performance": "High"
+    },
+    {
+        "card": "Titan V",
+        "manufacturer": "NVIDIA",
+        "tdp": 250,
+        "power": 250,
+        "architecture": "Volta",
+        "performance": "High"
+    },
+    {
+        "card": "Titan Xp",
+        "manufacturer": "NVIDIA",
+        "tdp": 250,
+        "power": 250,
+        "architecture": "Pascal",
+        "performance": "High"
+    },
+    {
+        "card": "Titan X",
+        "manufacturer": "NVIDIA",
+        "tdp": 250,
+        "power": 250,
+        "architecture": "Maxwell",
+        "performance": "High"
+    },
+    {
+        "card": "Radeon RX 6900 XT",
+        "manufacturer": "AMD",
+        "tdp": 300,
+        "power": 300,
+        "architecture": "RDNA 2",
+        "performance": "High"
+    },
+    {
+        "card": "Radeon RX 6800 XT",
+        "manufacturer": "AMD",
+        "tdp": 250,
+        "power": 250,
+        "architecture": "RDNA 2",
+        "performance": "High"
+    },
+    {
+        "card": "Radeon RX 6800",
+        "manufacturer": "AMD",
+        "tdp": 230,
+        "power": 230,
+        "architecture": "RDNA 2",
+        "performance": "High"
+    },
+    {
+        "card": "Radeon RX 6700 XT",
+        "manufacturer": "AMD",
+        "tdp": 180,
+        "power": 180,
+        "architecture": "RDNA 2",
+        "performance": "High"
+    },
+    {
+        "card": "Radeon RX 5700",
+        "manufacturer": "AMD",
+        "tdp": 150,
+        "power": 150,
+        "architecture": "RDNA",
+        "performance": "Medium"
+    },
+    {
+        "card": "Radeon RX 5600 XT",
+        "manufacturer": "AMD",
+        "tdp": 150,
+        "power": 150,
+        "architecture": "RDNA",
+        "performance": "Medium"
+    },
+    {
+        "card": "Radeon RX 5500 XT",
+        "manufacturer": "AMD",
+        "tdp": 100,
+        "power": 100,
+        "architecture": "RDNA",
+        "performance": "Medium"
+    },
+    {
+        "card": "Radeon VII",
+        "manufacturer": "AMD",
+        "tdp": 300,
+        "power": 300,
+        "architecture": "Vega",
+        "performance": "High"
+    },
+    {
+        "card": "Radeon RX Vega 64",
+        "manufacturer": "AMD",
+        "tdp": 210,
+        "power": 210,
+        "architecture": "Vega",
+        "performance": "High"
+    },
+    {
+        "card": "Radeon RX Vega 56",
+        "manufacturer": "AMD",
+        "tdp": 140,
+        "power": 140,
+        "architecture": "Vega",
+        "performance": "Medium"
+    },
+    {
+        "card": "Radeon R9 Fury X",
+        "manufacturer": "AMD",
+        "tdp": 275,
+        "power": 275,
+        "architecture": "GCN 4.0",
+        "performance": "High"
+    },
+    {
+        "card": "Radeon R9 Fury",
+        "manufacturer": "AMD",
+        "tdp": 275,
+        "power": 275,
+        "architecture": "GCN 4.0",
+        "performance": "High"
+    },
+    {
+        "card": "Radeon R9 Nano",
+        "manufacturer": "AMD",
+        "tdp": 180,
+        "power": 180,
+        "architecture": "GCN 4.0",
+        "performance": "Medium"
+    },
+    {
+        "card": "Radeon R9 390X",
+        "manufacturer": "AMD",
+        "tdp": 275,
+        "power": 275,
+        "architecture": "GCN 3.0",
+        "performance": "High"
+    },
+    {
+        "card": "Radeon R9 390",
+        "manufacturer": "AMD",
+        "tdp": 250,
+        "power": 250,
+        "architecture": "GCN 3.0",
+        "performance": "High"
+    },
+    {
+        "card": "Radeon R9 380X",
+        "manufacturer": "AMD",
+        "tdp": 200,
+        "power": 200,
+        "architecture": "GCN 3.0",
+        "performance": "Medium"
+    },
+    {
+        "card": "Radeon R9 380",
+        "manufacturer": "AMD",
+        "tdp": 200,
+        "power": 200,
+        "architecture": "GCN 3.0",
+        "performance": "Medium"
+    },
+    {
+        "card": "AMD Radeon R9 290X",
+        "manufacturer": "AMD",
+        "tdp": 290,
+        "power": 300,
+        "architecture": "GCN 2.0",
+        "performance": "High"
+    },
+    {
+        "card": "AMD Radeon R9 290",
+        "manufacturer": "AMD",
+        "tdp": 250,
+        "power": 250,
+        "architecture": "GCN 2.0",
+        "performance": "High"
+    },
+    {
+        "card": "AMD Radeon R9 285",
+        "manufacturer": "AMD",
+        "tdp": 225,
+        "power": 225,
+        "architecture": "GCN 2.0",
+        "performance": "Medium"
+    },
+    {
+        "card": "AMD Radeon R9 280X",
+        "manufacturer": "AMD",
+        "tdp": 250,
+        "power": 250,
+        "architecture": "GCN 2.0",
+        "performance": "High"
+    },
+    {
+        "card": "AMD Radeon R9 280",
+        "manufacturer": "AMD",
+        "tdp": 200,
+        "power": 200,
+        "architecture": "GCN 2.0",
+        "performance": "Medium"
+    },
+    {
+        "card": "Radeon HD 7970",
+        "manufacturer": "AMD",
+        "tdp": 250,
+        "power": 250,
+        "architecture": "GCN 1.0",
+        "performance": "High"
+    },
+    {
+        "card": "Radeon HD 7950",
+        "manufacturer": "AMD",
+        "tdp": 150,
+        "power": 150,
+        "architecture": "GCN 1.0",
+        "performance": "Medium"
+    },
+    {
+        "card": "Radeon HD 7940",
+        "manufacturer": "AMD",
+        "tdp": 180,
+        "power": 180,
+        "architecture": "Cypress",
+        "performance": "High"
+    },
+    {
+        "card": "Radeon HD 7930",
+        "manufacturer": "AMD",
+        "tdp": 175,
+        "power": 175,
+        "architecture": "Cypress",
+        "performance": "High"
+    },
+    {
+        "card": "Radeon HD 7920",
+        "manufacturer": "AMD",
+        "tdp": 150,
+        "power": 150,
+        "architecture": "Cypress",
+        "performance": "Medium"
+    },
+    {
+        "card": "Radeon HD 7910",
+        "manufacturer": "AMD",
+        "tdp": 150,
+        "power": 150,
+        "architecture": "Cypress",
+        "performance": "Medium"
+    },
+    {
+        "card": "Radeon HD 7870",
+        "manufacturer": "AMD",
+        "tdp": 185,
+        "power": 185,
+        "architecture": "Evergreen",
+        "performance": "High"
+    },
+    {
+        "card": "Radeon HD 7850",
+        "manufacturer": "AMD",
+        "tdp": 140,
+        "power": 140,
+        "architecture": "Evergreen",
+        "performance": "Medium"
+    },
+    {
+        "card": "Radeon HD 7840",
+        "manufacturer": "AMD",
+        "tdp": 95,
+        "power": 95,
+        "architecture": "Evergreen",
+        "performance": "Medium"
+    },
+    {
+        "card": "Radeon HD 7830",
+        "manufacturer": "AMD",
+        "tdp": 75,
+        "power": 75,
+        "architecture": "Evergreen",
+        "performance": "Low"
+    },
+    {
+        "card": "Radeon HD 7820",
+        "manufacturer": "AMD",
+        "tdp": 140,
+        "power": 140,
+        "architecture": "RV770",
+        "performance": "High"
+    },
+    {
+        "card": "Radeon HD 4850",
+        "manufacturer": "AMD",
+        "tdp": 110,
+        "power": 110,
+        "architecture": "RV770",
+        "performance": "Medium"
+    },
+    {
+        "card": "Radeon HD 4770",
+        "manufacturer": "AMD",
+        "tdp": 75,
+        "power": 75,
+        "architecture": "RV730",
+        "performance": "Medium"
+    },
+    {
+        "card": "Radeon HD 4750",
+        "manufacturer": "AMD",
+        "tdp": 75,
+        "power": 75,
+        "architecture": "RV730",
+        "performance": "Medium"
+    },
+    {
+        "card": "Radeon HD 3870",
+        "manufacturer": "AMD",
+        "tdp": 120,
+        "power": 120,
+        "architecture": "RV670",
+        "performance": "High"
+    },
+    {
+        "card": "Radeon HD 3850",
+        "manufacturer": "AMD",
+        "tdp": 100,
+        "power": 100,
+        "architecture": "RV670",
+        "performance": "Medium"
+    },
+    {
+        "card": "Radeon HD 3650",
+        "manufacturer": "AMD",
+        "tdp": 55,
+        "power": 55,
+        "architecture": "RV630",
+        "performance": "Low"
+    },
+    {
+        "card": "Radeon HD 3450",
+        "manufacturer": "AMD",
+        "tdp": 45,
+        "power": 45,
+        "architecture": "RV610",
+        "performance": "Low"
+    },
+    {
+        "card": "Radeon HD 2900 XT",
+        "manufacturer": "AMD",
+        "tdp": 225,
+        "power": 225,
+        "architecture": "R600",
+        "performance": "High"
+    },
+    {
+        "card": "Radeon HD 2600 XT",
+        "manufacturer": "AMD",
+        "tdp": 90,
+        "power": 90,
+        "architecture": "R600",
+        "performance": "Medium"
+    }
+]
